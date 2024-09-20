@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá me chamo Douglas e estou me tornando um super desenvolvedor <strong>Ruby</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  
 </p>
 
 <p align="left">
